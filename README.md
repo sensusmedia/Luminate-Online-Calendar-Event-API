@@ -5,3 +5,5 @@ The Calendar Event API allows you to retrieve Event information from Luminate On
 This code defines the variables returned from the JSON file and outputs the data into HTML. 
 
 This code also uses moment.js to convert the timestamp to human-readable format. 
+
+<a href="http://open.convio.com/api/apidoc/reference/apis/OrgEventAPI.html">View the  Calendar Event API</a>
